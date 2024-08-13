@@ -1,0 +1,6 @@
+@CompreApp.Api_HostAddress = http://localhost:7211
+
+GET {{CompreApp.Api_HostAddress}}/api/aplicativos
+Accept: application/json
+
+###
